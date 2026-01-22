@@ -1,0 +1,7 @@
+{
+    "titulo": "\"Exploit no SagaEVM causa parada da cadeia de blocos\"",
+    "noticia": "A SagaEVM, uma plataforma de blockchain baseada em Ethereum Virtual Machine, anunciou que pôs pause em sua cadeia de blocos após ser vítima de um exploit em contrato inteligente. De acordo com a reportagem, o atacante conseguiu roubar fundos da plataforma e posteriormente transferiu-os para ether, a moeda nativa da blockchain Ethereum.\n\nA SagaEVM é uma das muitas plataformas de blockchain que buscam oferecer soluções descentralizadas e seguras para desenvolvedores de aplicativos. No entanto, a exploração do contrato inteligente demonstra que, mesmo com tecnologias avançadas, vulnerabilidades podem ser encontradas e exploradas.\n\nA SagaEVM ainda não divulgou detalhes sobre o exploit ou como ele foi descoberto. A parada da cadeia de blocos deve permitir que a equipe de desenvolvimento investigue e resolva o problema antes de voltar a operar normalmente.\n\nFonte: The Block",
+    "tempo": "03:26",
+    "data": "22/01/2026",
+    "slug": "exploit-no-sagaevm-causa-parada-da-cadeia-de-bloco"
+}
